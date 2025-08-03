@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test / coverage caches
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Results and benchmark caches
+results/
+exec_cache.json
+
+# Miscellaneous project files
+projectdirectoryfiletree.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and temp files
+*.log
+*.tmp
